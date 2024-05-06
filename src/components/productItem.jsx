@@ -50,12 +50,4 @@ const ProductItem = ( { product } ) =>{
 export default ProductItem
 ProductItem.propTypes= {
     product : propTypes.object
-    // ({
-    //     price : propTypes.number.isRequired,
-    // title : propTypes.string.isRequired,
-    // image : propTypes.string.isRequired}).isRequired   
-};
-
-// Hello.propTypes = {
-//     name: PropTypes.string.isRequired
-//   }
+ 
