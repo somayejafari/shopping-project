@@ -50,10 +50,5 @@ console.log(productCount)
     </>
     )
     
-    // <Navbar className="border-botton border-secondary">
-    //     <Navbar.Collapse className="justify-content-end">
-    //         <Button variant="btn btn-outline-secondary" className="text-wite">سبد خرید</Button>
-    //     </Navbar.Collapse>
-    // </Navbar>
 }
  
